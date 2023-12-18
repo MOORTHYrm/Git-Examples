@@ -4,4 +4,12 @@ this is my second line code
 this is my rebase first commends
 
 this is my rebase second
+<<<<<<< HEAD
 this is my rebase thirdi hi
+=======
+this is my rebase third
+
+this is my git tag example commit
+
+branch protection rules
+>>>>>>> fa58febfcf360a189eef3e689914122bd72dfeae
