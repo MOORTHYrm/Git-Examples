@@ -11,4 +11,8 @@ this is my git tag example commit
 
 branch protection rules
 
+<<<<<<< Updated upstream
 
+=======
+my next line
+>>>>>>> Stashed changes
