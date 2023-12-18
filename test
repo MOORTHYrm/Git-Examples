@@ -12,7 +12,11 @@ this is my git tag example commit
 branch protection rules
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+my next line
+>>>>>>> Stashed changes
 =======
 my next line
 >>>>>>> Stashed changes
